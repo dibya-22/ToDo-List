@@ -16,7 +16,7 @@ Taskly is a simple task management application built using React. It allows user
 1. Clone the repository:
    ```bash
    git clone https://github.com/dibya-22/ToDo-List.git
-   cd taskly
+   cd ToDo-List
    ```
 
 2. Install dependencies:
